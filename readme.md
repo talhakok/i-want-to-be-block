@@ -1,0 +1,1 @@
+blockchain dev oluyorum hafta-1
