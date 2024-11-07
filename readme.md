@@ -1,1 +1,1 @@
-blockchain dev oluyorum hafta-1
+blockchain dev oluyorum hafta-1 / gpg key ekledim ne degisti simdi
